@@ -37,6 +37,5 @@ The CNN model, built using Keras, employs convolutional layers to extract featur
 ## Deployment
 
 To enhance interaction with the model, we've developed a user-friendly graphical interface using Gradio.
-![Logo](https://github.com/SaraELalimi2001/Traffic-signs-recognition-project/blob/main/Interface_graphique_code.ipynb
-)
+
 
